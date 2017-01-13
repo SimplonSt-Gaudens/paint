@@ -1,0 +1,8 @@
+#canvasCenter{
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+}
+#paint{
+	border: 1px black solid;
+}
